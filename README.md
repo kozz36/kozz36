@@ -1,8 +1,17 @@
-# José Requejo
+<p align="center">
+  <img src="./assets/identity.svg" alt="kozz36 — Andrew Requejo" width="1100">
+</p>
+
+### Andrew Requejo
 
 **Software Engineer | Applied AI & Engineering Automation**
 
-I build software for complex engineering and operational workflows. First-hand experience in telecom operations, QA/QC, and technical documentation helps me understand how work actually moves through a team, then translate that understanding into requirements, architecture, implementation, tests, and validation.
+I build software for engineering teams and day-to-day operations. My field experience helps me understand what people need, choose the right technologies, and take systems from requirements and architecture through development, testing, and validation.
+
+[GitHub](https://github.com/kozz36) / [LinkedIn](https://www.linkedin.com/in/jose-requejo/) / [Email](mailto:andrew@qubytellc.com) / kozz.dev — in progress
+
+<details>
+<summary>Projects &amp; engineering approach</summary>
 
 ## Engineering approach
 
@@ -35,8 +44,4 @@ An automotive catalog and business platform for product discovery, SEO, technica
 
 A public website and service-request platform for an automotive business. The public site is live; service-request intake is implemented and tested but not yet enabled in production while the product continues in development. *(Next.js, React, TypeScript, Cloudflare Workers, D1)*
 
-## Connect
-
-[GitHub](https://github.com/kozz36) · [LinkedIn](https://www.linkedin.com/in/jose-requejo/) · [Email](mailto:andrew@qubytellc.com)
-
-Portfolio: **kozz.dev — in progress**.
+</details>
