@@ -8,7 +8,7 @@
 
 I build software for engineering teams and day-to-day operations. My field experience helps me understand what people need, choose the right technologies, and take systems from requirements and architecture through development, testing, and validation.
 
-[GitHub](https://github.com/kozz36) / [LinkedIn](https://www.linkedin.com/in/jose-requejo/) / [Email](mailto:andrew@qubytellc.com) / kozz.dev — in progress
+[LinkedIn](https://www.linkedin.com/in/jose-requejo/) / [Email](mailto:andrew@qubytellc.com) / kozz.dev — in progress
 
 <details>
 <summary>Projects &amp; engineering approach</summary>
